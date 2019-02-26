@@ -1,0 +1,6 @@
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab4\ClassLibrary4\bin\Debug\ClassLibrary4.dll
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab4\ClassLibrary4\bin\Debug\ClassLibrary4.pdb
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab4\ClassLibrary4\obj\Debug\ClassLibrary4.csprojAssemblyReference.cache
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab4\ClassLibrary4\obj\Debug\ClassLibrary4.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab4\ClassLibrary4\obj\Debug\ClassLibrary4.dll
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab4\ClassLibrary4\obj\Debug\ClassLibrary4.pdb

@@ -1,0 +1,10 @@
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\bin\Debug\lab1classes.dll
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\bin\Debug\lab1classes.pdb
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab2\obj\Debug\lab2.csproj.CopyComplete

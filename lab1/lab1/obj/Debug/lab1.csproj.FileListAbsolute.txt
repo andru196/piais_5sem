@@ -1,0 +1,7 @@
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab1\lab1\bin\Debug\lab1.exe.config
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab1\lab1\bin\Debug\lab1.exe
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab1\lab1\bin\Debug\lab1.pdb
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab1\lab1\obj\Debug\lab1.csprojAssemblyReference.cache
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab1\lab1\obj\Debug\lab1.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab1\lab1\obj\Debug\lab1.exe
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab1\lab1\obj\Debug\lab1.pdb

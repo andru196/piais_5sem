@@ -1,0 +1,10 @@
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\bin\Debug\lab3.exe.config
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\bin\Debug\lab3.exe
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\bin\Debug\lab3.pdb
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\bin\Debug\ClassLibLab33.dll
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\bin\Debug\ClassLibLab33.pdb
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\obj\Debug\lab3.csprojAssemblyReference.cache
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\obj\Debug\lab3.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\obj\Debug\lab3.csproj.CopyComplete
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\obj\Debug\lab3.exe
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab3\lab3\obj\Debug\lab3.pdb

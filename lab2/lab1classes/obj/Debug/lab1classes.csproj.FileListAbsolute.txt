@@ -1,0 +1,5 @@
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab1classes\bin\Debug\lab1classes.dll
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab1classes\bin\Debug\lab1classes.pdb
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab1classes\obj\Debug\lab1classes.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab1classes\obj\Debug\lab1classes.dll
+C:\Users\Андрей\YandexDisk\РГСУ\5 семестр\Технологии программирования\labs\lab2\lab1classes\obj\Debug\lab1classes.pdb
